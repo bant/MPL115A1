@@ -6,7 +6,19 @@ Raspberry PiにてSPI版大気圧センサMPL1151から、気圧・温度を読�
 
 構築方法
 --------
-本コマンドはwiringPiライブラリィを利用しているので、予めraspberry Piにインストールしてください。
+構築方法は以下の通り
+`make`
+
+インストール方法は以下の通り
+`sudo make install`
+
+
+
+
+本コマンドはwiringPiライブラリィを利用しているので、wiringPiライブラリィがraspberry Piにインストールされいいる必要があります。
+
+
+
 
 wiringPiの詳細は、以下のところを参照してください。
 https://projects.drogon.net/raspberry-pi/wiringpi/
