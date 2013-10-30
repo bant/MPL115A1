@@ -35,7 +35,7 @@ MPL115A1をRaspbery Piに接続し、
 
 のように入力すると、以下のように大気圧と温度が得られる。
 
-    MPL115A1 -c1 -t100
+    $>MPL115A1 -c1 -t100
     ***** Start MPL115A1 Barometric Pressure Sensor *****
     [Contions]--------------
     SPI Channel: 1 ch
