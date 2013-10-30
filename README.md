@@ -21,7 +21,7 @@ Raspberry Piにて、SPI版大気圧センサMPL1151から気圧・温度を読�
 
 `s>sudo make uninstall`
 
-なお、本コマンドはwiringPiライブラリィを利用しているので、構築にはwiringPiライブラリィがraspberry Piにインストールされている必要があります。
+なお、本コマンドはwiringPiライブラリィを利用しているので、構築にはwiringPiライブラリィがインストールされている必要があります。
 
 wiringPiの詳細は、以下のところを参照してください。
 
