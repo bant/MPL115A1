@@ -31,7 +31,7 @@ https://projects.drogon.net/raspberry-pi/wiringpi/
 --------
 MPL115A1をRaspbery Piに接続し、
 
-`$>MPL115A1 -c1　-t1000`
+`$>MPL115A1 -c1　-t100`
 
 のように入力すると、以下のように大気圧と温度が得られる。
 
