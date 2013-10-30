@@ -7,6 +7,8 @@
 // Target MCU   :
 // Tool Chain   :
 //
+// LICENSE      : GPL v3 (http://www.gnu.org/licenses/gpl.html)
+//
 // Revision History:
 // When         Who         Description of change
 // -----------  ----------- -----------------------
