@@ -344,7 +344,7 @@ int main(int argc, char *argv[])
     }
 
     printf("***** Start MPL115A1 Barometric Pressure Sensor *****\n");
-    printf("[Contions]--------------\n");
+    printf("[Conditions]------------\n");
     printf("SPI Channel: %d ch\n", spi_ch);
     printf("SPI Speed: %d Hz\n", spi_speed);
     printf("Average times: %d\n\n",times);
